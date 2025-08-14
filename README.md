@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Yasmine]
+# 👋 Hello, I'm Yasmine
 
 **MSC in Intelligent computer systems | AI & Data Enthusiast | Software engineer**
 
